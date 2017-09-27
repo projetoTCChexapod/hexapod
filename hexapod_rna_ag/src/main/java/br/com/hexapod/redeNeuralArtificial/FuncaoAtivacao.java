@@ -1,4 +1,4 @@
-package br.com.hexapod.rna;
+package br.com.hexapod.redeNeuralArtificial;
 
 public abstract class FuncaoAtivacao {
 	

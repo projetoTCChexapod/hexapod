@@ -1,4 +1,4 @@
-package br.com.hexapod.ag;
+package br.com.hexapod.algoritmoGenetico;
 
 public abstract class FuncaoAptidao {
 	
