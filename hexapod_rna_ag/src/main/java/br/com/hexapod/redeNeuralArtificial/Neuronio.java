@@ -1,5 +1,5 @@
 package br.com.hexapod.redeNeuralArtificial;
 
-public class ArquiteturaMLP {
-	
+public class Neuronio {
+
 }
